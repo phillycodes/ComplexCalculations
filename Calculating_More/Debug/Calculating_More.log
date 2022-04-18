@@ -1,0 +1,10 @@
+﻿  Calculating_More.c
+D:\kingp\visualStudio-workspace\Calculating_More\Calculating_More\Calculating_More.c(32,21): error C2057: expected constant expression
+D:\kingp\visualStudio-workspace\Calculating_More\Calculating_More\Calculating_More.c(32,21): error C2466: cannot allocate an array of constant size 0
+D:\kingp\visualStudio-workspace\Calculating_More\Calculating_More\Calculating_More.c(32,26): error C2059: syntax error: '}'
+D:\kingp\visualStudio-workspace\Calculating_More\Calculating_More\Calculating_More.c(41,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+D:\kingp\visualStudio-workspace\Calculating_More\Calculating_More\Calculating_More.c(41,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+D:\kingp\visualStudio-workspace\Calculating_More\Calculating_More\Calculating_More.c(41,11): message : the missing variadic argument 2 is required by format string '%c'
+D:\kingp\visualStudio-workspace\Calculating_More\Calculating_More\Calculating_More.c(41,11): message : this argument is used as a buffer size
+D:\kingp\visualStudio-workspace\Calculating_More\Calculating_More\Calculating_More.c(62,13): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+D:\kingp\visualStudio-workspace\Calculating_More\Calculating_More\Calculating_More.c(72,13): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
